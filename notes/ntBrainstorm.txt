@@ -1,0 +1,3 @@
+Player must keep their guardian angel alive. Starts out as an idle game where you gather 
+wood/stone. You must leave the camp to get food, but when you leave your temperature starts to
+drop. Your goal is to follow the path down the mountain to get home.
